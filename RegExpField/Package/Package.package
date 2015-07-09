@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="6670aa93-67c6-4990-ba7b-cd4081c469d2" solutionId="6670aa93-67c6-4990-ba7b-cd4081c469d2" resetWebServer="false" sharePointProductVersion="15.0" name="RegExpField" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <projectItems>
+    <projectItemReference itemId="b2ef3d12-2492-4c53-abb4-ef3b49c79e07" />
+    <projectItemReference itemId="978b3190-07e5-4bd8-8c12-8c5b5742f856" />
+    <projectItemReference itemId="15e44690-1de6-448a-9659-965d41576232" />
+  </projectItems>
+</package>
